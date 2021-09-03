@@ -1,1 +1,1 @@
-# Study C with eclipse
+# Study C using eclipse
